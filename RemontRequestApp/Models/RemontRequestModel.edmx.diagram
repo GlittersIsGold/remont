@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="fe960c7e08d54c04950d14f7cf6b6bd1" Name="Diagram1" ZoomLevel="98">
+        <EntityTypeShape EntityType="RemontRequestModel.FixRequest" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="RemontRequestModel.RequestStatus" Width="1.5" PointX="3" PointY="5.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="RemontRequestModel.sysdiagrams" Width="1.5" PointX="5.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RemontRequestModel.TechTypeId" Width="1.5" PointX="3" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="RemontRequestModel.User" Width="1.5" PointX="3" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="RemontRequestModel.UserRole" Width="1.5" PointX="0.75" PointY="2.125" IsExpanded="true" />
+        <AssociationConnector Association="RemontRequestModel.FK_FixRequest_RequestStatus" ManuallyRouted="false" />
+        <AssociationConnector Association="RemontRequestModel.FK_FixRequest_TechTypeId" ManuallyRouted="false" />
+        <AssociationConnector Association="RemontRequestModel.FK_FixRequest_User" ManuallyRouted="false" />
+        <AssociationConnector Association="RemontRequestModel.FK_FixRequest_User1" ManuallyRouted="false" />
+        <AssociationConnector Association="RemontRequestModel.FK_User_UserRole" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
