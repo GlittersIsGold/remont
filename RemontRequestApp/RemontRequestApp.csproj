@@ -64,6 +64,8 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Classes\Connection\Connecting.cs" />
+    <Compile Include="Classes\Navigation\Navigator.cs" />
     <Compile Include="Models\FixRequest.cs">
       <DependentUpon>RemontRequestModel.tt</DependentUpon>
     </Compile>
@@ -151,10 +153,7 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Classes\Connection\" />
-    <Folder Include="Classes\Navigation\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Content Include="Models\RemontRequestModel.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>

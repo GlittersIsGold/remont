@@ -3,19 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\shelb\\source\\repos\\Remont\\remont\\RemontRequestApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{860E46C5-FBC3-42F5-9EAB-0488B27AB25F}|RemontRequestApp.csproj|c:\\users\\shelb\\source\\repos\\remont\\remont\\remontrequestapp\\classes\\navigation\\navigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860E46C5-FBC3-42F5-9EAB-0488B27AB25F}|RemontRequestApp.csproj|solutionrelative:classes\\navigation\\navigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860E46C5-FBC3-42F5-9EAB-0488B27AB25F}|RemontRequestApp.csproj|c:\\users\\shelb\\source\\repos\\remont\\remont\\remontrequestapp\\classes\\connection\\connecting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860E46C5-FBC3-42F5-9EAB-0488B27AB25F}|RemontRequestApp.csproj|solutionrelative:classes\\connection\\connecting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{860E46C5-FBC3-42F5-9EAB-0488B27AB25F}|RemontRequestApp.csproj|c:\\users\\shelb\\source\\repos\\remont\\remont\\remontrequestapp\\models\\remontrequestmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{860E46C5-FBC3-42F5-9EAB-0488B27AB25F}|RemontRequestApp.csproj|solutionrelative:models\\remontrequestmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{860E46C5-FBC3-42F5-9EAB-0488B27AB25F}|RemontRequestApp.csproj|c:\\users\\shelb\\source\\repos\\remont\\remont\\remontrequestapp\\views\\pagelogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{860E46C5-FBC3-42F5-9EAB-0488B27AB25F}|RemontRequestApp.csproj|C:\\Users\\shelb\\source\\repos\\Remont\\remont\\RemontRequestApp\\views\\pagelogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{860E46C5-FBC3-42F5-9EAB-0488B27AB25F}|RemontRequestApp.csproj|solutionrelative:views\\pagelogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{860E46C5-FBC3-42F5-9EAB-0488B27AB25F}|RemontRequestApp.csproj|c:\\users\\shelb\\source\\repos\\remont\\remont\\remontrequestapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{860E46C5-FBC3-42F5-9EAB-0488B27AB25F}|RemontRequestApp.csproj|C:\\Users\\shelb\\source\\repos\\Remont\\remont\\RemontRequestApp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{860E46C5-FBC3-42F5-9EAB-0488B27AB25F}|RemontRequestApp.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{860E46C5-FBC3-42F5-9EAB-0488B27AB25F}|RemontRequestApp.csproj|c:\\users\\shelb\\source\\repos\\remont\\remont\\remontrequestapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{860E46C5-FBC3-42F5-9EAB-0488B27AB25F}|RemontRequestApp.csproj|C:\\Users\\shelb\\source\\repos\\Remont\\remont\\RemontRequestApp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{860E46C5-FBC3-42F5-9EAB-0488B27AB25F}|RemontRequestApp.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -31,6 +39,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Navigator.cs",
+              "DocumentMoniker": "C:\\Users\\shelb\\source\\repos\\Remont\\remont\\RemontRequestApp\\Classes\\Navigation\\Navigator.cs",
+              "RelativeDocumentMoniker": "Classes\\Navigation\\Navigator.cs",
+              "ToolTip": "C:\\Users\\shelb\\source\\repos\\Remont\\remont\\RemontRequestApp\\Classes\\Navigation\\Navigator.cs",
+              "RelativeToolTip": "Classes\\Navigation\\Navigator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T19:05:35.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Connecting.cs",
+              "DocumentMoniker": "C:\\Users\\shelb\\source\\repos\\Remont\\remont\\RemontRequestApp\\Classes\\Connection\\Connecting.cs",
+              "RelativeDocumentMoniker": "Classes\\Connection\\Connecting.cs",
+              "ToolTip": "C:\\Users\\shelb\\source\\repos\\Remont\\remont\\RemontRequestApp\\Classes\\Connection\\Connecting.cs",
+              "RelativeToolTip": "Classes\\Connection\\Connecting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T19:04:26.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "RemontRequestModel.edmx [Diagram1]",
               "DocumentMoniker": "C:\\Users\\shelb\\source\\repos\\Remont\\remont\\RemontRequestApp\\Models\\RemontRequestModel.edmx",
               "RelativeDocumentMoniker": "Models\\RemontRequestModel.edmx",
@@ -42,31 +76,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "PageLogin.xaml",
               "DocumentMoniker": "C:\\Users\\shelb\\source\\repos\\Remont\\remont\\RemontRequestApp\\Views\\PageLogin.xaml",
               "RelativeDocumentMoniker": "Views\\PageLogin.xaml",
               "ToolTip": "C:\\Users\\shelb\\source\\repos\\Remont\\remont\\RemontRequestApp\\Views\\PageLogin.xaml",
               "RelativeToolTip": "Views\\PageLogin.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-11T18:58:11.281Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T18:58:11.281Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\shelb\\source\\repos\\Remont\\remont\\RemontRequestApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
               "ToolTip": "C:\\Users\\shelb\\source\\repos\\Remont\\remont\\RemontRequestApp\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-11T18:57:29.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T18:57:29.894Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\shelb\\source\\repos\\Remont\\remont\\RemontRequestApp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
@@ -74,8 +106,7 @@
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T18:57:28.883Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T18:57:28.883Z"
             }
           ]
         }
