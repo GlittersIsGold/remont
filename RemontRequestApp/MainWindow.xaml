@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:RemontRequestApp"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Заявки на ремонт" Height="450" Width="800">
     <Grid>
-        
+        <Frame x:Name="FrmMain" NavigationUIVisibility="Hidden"/>
     </Grid>
 </Window>

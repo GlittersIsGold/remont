@@ -11,15 +11,28 @@
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition></ColumnDefinition>
-            <ColumnDefinition></ColumnDefinition>
-            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
             <ColumnDefinition></ColumnDefinition>
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
             <RowDefinition></RowDefinition>
-            <RowDefinition></RowDefinition>
-            <RowDefinition></RowDefinition>
+            <RowDefinition Height="6*"></RowDefinition>
             <RowDefinition></RowDefinition>
         </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="1" Grid.Column="1" Width="200" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <StackPanel>
+                <Label>Логин</Label>
+                <TextBox x:Name="TbLogin"/>
+            </StackPanel>
+            <StackPanel>
+                
+            <Label>Пароль</Label>
+                <PasswordBox x:Name="TbPass"/>
+            </StackPanel>
+            <StackPanel>
+                <Button x:Name="BtnLogin" Click="BtnLogin_Click">Вход</Button>
+            </StackPanel>
+        </StackPanel>
     </Grid>
 </Page>
